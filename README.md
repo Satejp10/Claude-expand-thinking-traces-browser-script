@@ -1,0 +1,1 @@
+# Claude-expand-thinking-traces-browser-script
