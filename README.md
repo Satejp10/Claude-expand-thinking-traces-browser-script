@@ -1,5 +1,7 @@
 # Claude.ai — Expand All Thinking Traces
 
+Demo.gif
+
 A lightweight userscript that adds a floating **Expand all** button to [claude.ai](https://claude.ai). One click expands every collapsed thinking trace, tool call, "Show more" block, capped code panel, and truncated timeline section in the current conversation — so you can read or `Ctrl+F` a whole chat without clicking each toggle.
 
 Hover the button for **1 second** to open a menu with granular controls.
